@@ -3,3 +3,7 @@ hanlert.py
 notebooks/.*
 notebooks/*.png
 notebooks/*.pdf
+
+*.omx
+*.cursor
+
